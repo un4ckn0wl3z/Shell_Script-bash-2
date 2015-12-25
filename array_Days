@@ -1,0 +1,7 @@
+#!/bin/bash
+
+days=(sunday monday tuesday wednesday thursday friday satturday)
+
+echo ${days[0]} ${days[6]}
+
+

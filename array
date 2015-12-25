@@ -1,0 +1,8 @@
+#!/bin/bash
+
+array[0]="apple"
+array[1]="orange"
+
+echo ${array[0]} ${array[1]}
+
+

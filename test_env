@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo $ENV_VAR
+echo $NO_ENV_VAR
+
+
